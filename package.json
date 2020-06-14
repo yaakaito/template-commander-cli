@@ -1,0 +1,12 @@
+{
+  "name": "template-commander-cli",
+  "version": "1.0.0",
+  "main": "cli/index.js",
+  "author": "yaakaito <yaakaito@gmail.com>",
+  "license": "UNLICENCED",
+  "private": true,
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0"
+  }
+}
