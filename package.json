@@ -6,7 +6,7 @@
   "license": "UNLICENCED",
   "private": true,
   "dependencies": {
-    "chalk": "^4.1.0",
-    "commander": "^5.1.0"
+    "chalk": "4.1.0",
+    "commander": "5.1.0"
   }
 }
