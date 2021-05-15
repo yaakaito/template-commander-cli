@@ -7,6 +7,6 @@
   "private": true,
   "dependencies": {
     "chalk": "^4.1.0",
-    "commander": "^5.1.0"
+    "commander": "7.2.0"
   }
 }
